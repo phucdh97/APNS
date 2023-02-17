@@ -1,0 +1,8 @@
+{
+  "aps": {
+    "alert": "Notif nhe",
+    "sound": "default",
+    "badge": 3
+  },
+  "Simulator Target Bundle": "com.component.phuc.Component"
+}
